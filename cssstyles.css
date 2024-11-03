@@ -1,0 +1,54 @@
+
+
+.bg_all {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.head1 {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.head2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+
+.bg_allb {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.img2 {
+    height: 64px;
+    width: 64px;
+}
+
+.head3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.skills-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
